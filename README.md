@@ -1,5 +1,5 @@
 Para compilar: make
 
-Para executar: ./lista
+Para executar: ./fila
 
 Para liberar: make clean
